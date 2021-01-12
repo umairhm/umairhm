@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/umairhm/umairhm/master/assets/profile-banner.png "Header")](https://umairhafeez.com/)
-# Hello, World! 👋
 
+<h1 align="center">Hello, World! 👋</h1>
 <h3 align="center">I'm Umair Hafeez.</h3>
 <p align="center">Front End Architect | Tech Lead | Full Stack Web Developer | MCP</p>
 
