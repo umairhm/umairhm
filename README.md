@@ -1,5 +1,8 @@
-# Hi there 👋
-## Thank you for visiting my profile!!!
+[![Header](https://raw.githubusercontent.com/umairhm/umairhm/umairhm/assets/profile-banner.png "Header")](https://umairhafeez.com/)
+# Hello, World! 👋
+
+<h3 align="center">I'm Umair Hafeez.</h3>
+<p align="center">Front End Architect | Tech Lead | Full Stack Web Developer | MCP</p>
 
 [![Umair's github stats](https://github-readme-stats.vercel.app/api?username=umairhm&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
