@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/umairhm/umairhm/umairhm/assets/profile-banner.png "Header")](https://umairhafeez.com/)
+[![Header](https://raw.githubusercontent.com/umairhm/umairhm/master/assets/profile-banner.png "Header")](https://umairhafeez.com/)
 # Hello, World! 👋
 
 <h3 align="center">I'm Umair Hafeez.</h3>
