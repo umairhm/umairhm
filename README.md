@@ -1,11 +1,15 @@
 [![Header](https://raw.githubusercontent.com/umairhm/umairhm/master/assets/profile-banner.png "Header")](https://umairhafeez.com/)
-
-<h1 align="center">Hello, World! 👋</h1>
-<h3 align="center">I'm Umair Hafeez.</h3>
-<p align="center">Front End Architect | Tech Lead | Full Stack Web Developer | MCP</p>
+<br><br>
+<a href="https://app.daily.dev/umairhafeez">
+  <img src="https://api.daily.dev/devcards/b912b97cc86f42e288d61cedc3245dfb.png?r=sjb" align="right" width="300" alt="Umair Hafeez's Dev Card"/>
+</a>
+<p>
+  <strong>Hello, World! 👋</strong><br>
+  <strong>I'm Umair Hafeez.</strong><br>
+  <span>Front End Architect | Tech Lead | Full Stack Web Developer | MCP</span>
+</p>
 
 [![Umair's github stats](https://github-readme-stats.vercel.app/api?username=umairhm&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **umairhm/umairhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
