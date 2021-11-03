@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/umairhm/umairhm/master/assets/profile-banner.png "Header")](https://umairhafeez.com/)
 <br><br>
 <a href="https://app.daily.dev/umairhafeez">
-  <img src="https://api.daily.dev/devcards/b912b97cc86f42e288d61cedc3245dfb.png?r=sjb" align="right" width="300" alt="Umair Hafeez's Dev Card"/>
+  <img src="https://github.com/umairhm/umairhm/blob/master/devcard.svg" align="right" width="300" alt="Umair Hafeez's Dev Card"/>
 </a>
 <p>
   <strong>Hello, World! 👋</strong><br>
